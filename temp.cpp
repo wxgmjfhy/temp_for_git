@@ -1,10 +1,20 @@
 #include <bits/stdc++.h>
+using namespace std;
+
+inline void solve() {
+
+}
 
 int main() {
-    std::ios::sync_with_stdio(false);
-    std::cin.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(0);
 
-    std::cout << "Hello World!" << std::endl;
+    int t = 1;
+    cin >> t;
 
+    while (t--) {
+        solve();
+    }
+    
     return 0;
 }
